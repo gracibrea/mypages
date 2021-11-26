@@ -8,3 +8,4 @@ Minhas páginas no GitHub
 6.  [Snake Game](https://gracibrea.github.io/jogo_cobrinha_javascript/)
 7.  [Formulário em HTML](https://gracibrea.github.io/formulario/)
 8.  [Formulário com Validação Nativa](https://github.com/gracibrea/formulario-com-validacao-nativa)
+9.  [Projeto Portfólio](https://gracibrea.github.io/projeto-portfolio/)
