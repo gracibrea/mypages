@@ -9,3 +9,4 @@ Minhas páginas no GitHub
 7.  [Formulário em HTML](https://gracibrea.github.io/formulario/)
 8.  [Formulário com Validação Nativa](https://github.com/gracibrea/formulario-com-validacao-nativa)
 9.  [Projeto Portfólio](https://gracibrea.github.io/projeto-portfolio/)
+10. [Projeto Google Glass](https://gracibrea.github.io/projeto-google-glass/index.html)
