@@ -11,3 +11,4 @@ Minhas páginas no GitHub
 9.  [Projeto Portfólio](https://gracibrea.github.io/projeto-portfolio/)
 10. [Projeto Google Glass](https://gracibrea.github.io/projeto-google-glass/index.html)
 11. [Projeto Android](https://gracibrea.github.io/projeto-android/)
+12. [Cordel Moderno com efeito parallax simples](https://gracibrea.github.io/cordel-moderno/)
