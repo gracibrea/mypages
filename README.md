@@ -12,3 +12,8 @@ Páginas e interfaces desenvolvidas em aula
 10. [Projeto Google Glass](https://gracibrea.github.io/projeto-google-glass/index.html)
 11. [Projeto Android](https://gracibrea.github.io/projeto-android/)
 12. [Cordel Moderno com efeito parallax simples](https://gracibrea.github.io/cordel-moderno/)
+13. [Site semântico com flexbox, html e css](https://gracibrea.github.io/site-flexbox-html-semantico/)
+14. [Página de tributo](https://github.com/gracibrea/pagina-tributo)
+15. [CSS Flexbox e Grid Layout: aula aleatória](https://gracibrea.github.io/flexbox-grid/)
+16. [Primeiro formulário feito sozinha](https://gracibrea.github.io/formulario-exercicio/)
+17. [Landing page](https://gracibrea.github.io/landing-page-exercicio/)
