@@ -17,3 +17,4 @@ Páginas e interfaces desenvolvidas em aula
 15. [CSS Flexbox e Grid Layout: aula aleatória](https://gracibrea.github.io/flexbox-grid/)
 16. [Primeiro formulário feito sozinha](https://gracibrea.github.io/formulario-exercicio/)
 17. [Landing page](https://gracibrea.github.io/landing-page-exercicio/)
+18. [Reprodução da página inicial do Google](https://gracibrea.github.io/clone-do-google/)
