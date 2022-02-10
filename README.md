@@ -19,5 +19,5 @@ Páginas e interfaces desenvolvidas em aula
 17. [Tabela Zebrada](https://gracibrea.github.io/tabela-zebrada/)
 18. [Landing page](https://gracibrea.github.io/landing-page-exercicio/)
 19. [Reprodução da página inicial do Google](https://gracibrea.github.io/clone-do-google/)
-20. [Aula Projeto Awax](https://gracibrea.github.io/Aula-projeto-AWAX/home.html
+20. [Aula Projeto Awax](https://gracibrea.github.io/Aula-projeto-AWAX/home.html)
 21. [Teclado com CSS Grid](https://gracibrea.github.io/teclado/)
