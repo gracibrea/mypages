@@ -1,5 +1,5 @@
 # My Pages on GitHub
-Páginas e interfaces desenvolvidas em aula
+Páginas e interfaces desenvolvidas em aula ou exercícios
 1.  [Teste Branches](https://gracibrea.github.io/teste-branches/)
 2.  [Pagina Minimalista](https://gracibrea.github.io/pagina-minimalista/)
 3.  [Recriando Instagram](https://gracibrea.github.io/recriando-instagram/)
@@ -24,3 +24,6 @@ Páginas e interfaces desenvolvidas em aula
 22. [CSS Grid - Anotações](https://gracibrea.github.io/CSS-GRID/)
 23. [Teclado com CSS Grid](https://gracibrea.github.io/teclado/)
 24. [Starbucks](https://gracibrea.github.io/Aula-projeto-Starbucks/)
+25. [Hora Certa](https://gracibrea.github.io/Hora-Certa/)
+26. [Certificard](https://gracibrea.github.io/certificard/)
+27. [Cartão Virtual](https://gracibrea.github.io/certificard/)
