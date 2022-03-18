@@ -1,5 +1,5 @@
 # My Pages on GitHub
-Páginas e interfaces desenvolvidas em aula ou exercícios
+Páginas e interfaces desenvolvidas em aula ou exercícios na jornada de estudos Front-end
 1.  [Teste Branches](https://gracibrea.github.io/teste-branches/)
 2.  [Pagina Minimalista](https://gracibrea.github.io/pagina-minimalista/)
 3.  [Recriando Instagram](https://gracibrea.github.io/recriando-instagram/)
