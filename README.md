@@ -26,4 +26,4 @@ Páginas e interfaces desenvolvidas em aula ou exercícios na jornada de estudos
 24. [Starbucks](https://gracibrea.github.io/Aula-projeto-Starbucks/)
 25. [Hora Certa](https://gracibrea.github.io/Hora-Certa/)
 26. [Certificard](https://gracibrea.github.io/certificard/)
-27. [Cartão Virtual](https://gracibrea.github.io/certificard/)
+27. [Cartão Virtual](https://meu-cartao.vercel.app/)
